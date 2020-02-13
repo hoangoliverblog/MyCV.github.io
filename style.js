@@ -105,7 +105,6 @@ function getPub(){
 	c.style.display = 'none' ;
 	var d = document.getElementById("title-end") ;
 	d.outerHTML = "<a>hoangoliverblog.github.io</a>";
-	d.setAttribute("href","hoangoliverblog.github.io");
 	var f = document.getElementById("a1");
 	f.innerHTML = "- Nghe nhạc" ;
 	f.style.display = 'none';

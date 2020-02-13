@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+*{
+	margin: 0 ;
+	padding: 0 ;
+	border: 0 ;
+	font-family: 'Open Sans', sans-serif;
+	background-color: #dddddd;
+}
+.picture{
+	width: 70%;
+	margin: 0 auto;
+	padding-top: 5rem;
+	margin-right: 10%;
+}
+.picture img{
+	height: auto;
+	width: 70%;
+	border-radius: 100%;
+	border: 3px solid green;
+}
+.content{
+    padding-top: 2rem;
+	margin-right: 10%;	
+}
+.content ul {
+    text-indent: 39%;
+}
+.content button{
+	background-color: none;
+}
+.content button:hover{
+	background-color: gray;
+}
+.active{
+}
+.content ul li {
+	list-style: none;
+	padding-bottom: 0.8rem;
+}
+/*
+.content ul li a{
+	text-decoration: none;
+	color: black;
+	text-align: center;
+}
+.content ul li a:hover{
+	color: gray;
+}*/
+.right{
+	padding-left: 20% !important;
+}
+.title{
+    padding-top: 5rem;    
+}
+.body-title{
+	margin-top: 3rem;
+}
+.body-title-top a{
+	color: black;
+}
+.body-title-top p{
+	padding-top: 1rem;
+}
+.body-title-bottom{
+	padding-top: 2rem;
+}
+.social{
+
+}
+.social a{
+	
+}
+
+@media only screen and (max-width: 576px){
+
+}
